@@ -9,7 +9,7 @@ Nesse repositório foi postado a minha parte do trabalho. Dividido em três part
 Nosso projeto foi feito pensando em um modelo relacional. Este banco de dados possui 8 tabelas que se relacionam para formar um ambiente para usuário, bike, endereço e
 etc...Todos os atributos de todas as tabelas foram comentados e dentro do arquivo DDL é possível observá-los.
 
-![Modelo Relacional](modelorelacional_baze.png)
+![Modelo Relacional](relacional_baze.png)
 
 # DML (Modelagem de dados)
 Nosso desafio era usar 10 linhas para cada uma das tabelas do nosso banco, porém algumas das tabelas decidi expandir um pouco para observarmos de forma mais simplificada
