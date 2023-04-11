@@ -18,5 +18,6 @@ Esta parte do desafio envolvia fazer 4 query's usando SQL. Decidimos fazer nossa
 de bike deste usuário (maior e menor). Nesta etapa do desafio precisavamos pensar em coisas que facilitariam o nosso desenvolvimento. Essas query's nos trouxeram ideias para
 nosso front-end (que mais para frente receberia formulários para guardar cada uma das bikes de cada um dos usuários).
 
+# Resumo
 Em resumo, as requisições da matéria de Banco de Dados para o nosso desafio da Global Solution foram estas. No total, tivemos cerca de 14 dias de trabalho e conseguimos
 uma nota muito satisfatória (nota 9).
