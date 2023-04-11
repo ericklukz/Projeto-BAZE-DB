@@ -17,8 +17,10 @@ nossos dados. Tudo que foi inserido precisava ser válido, por isso usamos algun
 
 # DQL (Querys)
 Esta parte do desafio envolvia fazer 4 query's usando SQL. Decidimos fazer nossas maiores query's usando distância percorrida pelo usuário e para medir quais são os quadros e quantidade de marchas
-de bike deste usuário (maior e menor). Nesta etapa do desafio precisavamos pensar em coisas que facilitariam o nosso desenvolvimento. Essas query's nos trouxeram ideias para
-nosso front-end (que mais para frente receberia formulários para guardar cada uma das bikes de cada um dos usuários).
+de bike deste usuário (maior e menor). Nesta etapa do desafio precisavamos pensar em coisas que facilitariam o nosso desenvolvimento. 
+![Script_3](img/script3.PNG)
+![Script_4](img/script4.PNG)
+Essas query's nos trouxeram ideias para nosso front-end (que mais para frente receberia formulários para guardar cada uma das bikes de cada um dos usuários).
 
 # Resumo
 Em resumo, as requisições da matéria de Banco de Dados para o nosso desafio da Global Solution foram estas. No total, tivemos cerca de 14 dias de trabalho e conseguimos
